@@ -1,3 +1,3 @@
 # Test Project
 
-Pair Extraordinaire achievement test.
+Pair Extraordinaire achievement verification with real co-author.
